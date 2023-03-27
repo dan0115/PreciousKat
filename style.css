@@ -89,8 +89,9 @@ h1 {
 
 @media screen and (max-width: 500px) {
     body {
-      background-color: lightgreen;
+      background-image: url(HD-wallpaper-dark-night-aesthetic-nigth.jpg);
       margin:auto;
+      background-size: contain;
     }
     .flip{
         width: 330px;
