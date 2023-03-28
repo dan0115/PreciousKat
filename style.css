@@ -119,9 +119,7 @@ h1 {
     line-height: 1.2rem;
     padding: 1.4rem 0.5rem 0.3rem 4.5rem;
   }
-.page p{
-  text-align: justify;
-}
+
   
   .page::before,
   .page::after {
@@ -157,11 +155,15 @@ h1 {
     left: 3.3rem;
     top: 0;
   }
+.date
   
   .page p {
+    font-size: 30px;
     margin: 0;
     text-indent: 1rem;
     padding-bottom: 1.2rem;
     color: black;
     line-height: 20px;
+    /* text-align: justify; */
+    font-family: 'Caveat', cursive;
   }
