@@ -105,7 +105,7 @@ h1 {
   }
 
 
-  .page {
+  /* .page {
    margin:auto;
     position: relative;
     box-sizing: border-box;
@@ -165,5 +165,5 @@ h1 {
     color: black;
     line-height: 20px;
     /* text-align: justify; */
-    font-family: 'Caveat', cursive;
-  }
+    /* //font-family: 'Caveat', cursive;
+  }  */
